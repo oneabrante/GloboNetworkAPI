@@ -15,6 +15,11 @@ They were created to be vendor agnostic and to support different orchestrators a
 
 It was not created to be and inventory database, so it does not have CMDB functionalities.
 
+GloboNetworkAPI Web UI
+=======================
+The <a href="https://github.com/globocom/GloboNetworkAPI-WebUI/">GloboNetworkAPI Web UI</a> is a web interface for the GloboNetworkAPI. It is a Django application that uses the GloboNetworkAPI REST API to manage and automate networking resources.
+
+
 ## Features
 
 * LDAP authentication
