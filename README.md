@@ -19,6 +19,11 @@ GloboNetworkAPI Web UI
 =======================
 The <a href="https://github.com/globocom/GloboNetworkAPI-WebUI/">GloboNetworkAPI Web UI</a> is a web interface for the GloboNetworkAPI. It is a Django application that uses the GloboNetworkAPI REST API to manage and automate networking resources.
 
+## Steps to run the GloboNetworkAPI
+
+1. Command: `docker-compose up -d`
+2. Access http://localhost:8000
+3. Try: `docker-compose restart` if the application does not start correctly
 
 ## Features
 
